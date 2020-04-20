@@ -1,7 +1,6 @@
 package com.duyi.domain;
 
 public class Person {
-    private String name;
-    private Integer age;
     private String loc;
+
 }
